@@ -1,0 +1,10 @@
+inicio do projeto
+autor: 
+autor: nome:bruno palhares
+matricula: 
+checklist: terminal ok
+linha 1
+linha 2
+linha 3
+linha 4
+linha 5
